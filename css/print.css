@@ -1,0 +1,33 @@
+body { background: #fff; font: 11px/1.4em "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, helvetica, sans-serif; }
+
+h2 { font-size: 13px; color: #666; margin-left: 60px; margin-top: 0px; }
+
+h3 { font-size: 12px; color: #666; margin-left: 60px; margin-top: 0px; }
+
+a { color: #660000; text-decoration: none;}
+
+a:hover { text-decoration: underline; }
+
+div { background: none; margin-left: auto; margin-right: auto; width: 790px; }
+
+.content { background: none; }
+
+#frame { margin-top: 5px; }
+
+#masthead, #footer { display: none !important; }
+
+p { margin-left: 60px; margin-right: 60px; margin-top: 8px; }
+
+p.content_toggle { margin: 0px; }
+		
+table { width: 660px; margin-left: 60px; margin-right: 60px; }
+
+td { padding-left: 5px; vertical-align: top; }
+
+td.links { width: 150px; }
+
+td.indent { text-indent: -4px; }
+
+img { vertical-align: text-bottom; }
+
+ul { list-style-type: circle; text-align: left; }
